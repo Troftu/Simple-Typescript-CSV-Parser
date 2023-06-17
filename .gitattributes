@@ -1,0 +1,5 @@
+* text=auto
+
+*.crlf.csv text eol=crlf
+
+*.lf.csv text eol=lf

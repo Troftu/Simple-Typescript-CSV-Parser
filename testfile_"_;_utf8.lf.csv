@@ -1,0 +1,4 @@
+Some;test;data;YEAH!
+"Hallo ""du""";"Keine quüöes aber ein ;";1,00;true
+"WAS? "";""";"""Nur quotes""";2,00;false
+"WAS?""";"Komma; klar";45019,00;true
